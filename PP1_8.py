@@ -11,7 +11,7 @@ def q2():
 
 def q3():
   bool1 = int(input("Enter a number: "))
-  print (bool1 > 0 and bool1 < 10)
+  print (bool1 => 0 and bool1 <= 10)
 
 
 def q4():
@@ -23,8 +23,6 @@ def q4():
 
 
 def q5():
-  #Ask the user, “Enter an integer: ” Input the user’s response from the keyboard, 
-  #test the integer to see if it is even (use the modulus operator % and 2 to do this), and then output the result as shown below (several runs are shown):
   skib = int(input("Enter an integer: "))
   if skib % 2 == 0: 
     doop = (f"The integer {skib} is True")
@@ -36,8 +34,7 @@ def q5():
 #Do not edit code after this
 #Comment out the followwing code when running tests
 
-q1()
-q2()
-q3()
-q4()
-q5()
+#q1()
+#q2()
+#q3()
+#q5()
