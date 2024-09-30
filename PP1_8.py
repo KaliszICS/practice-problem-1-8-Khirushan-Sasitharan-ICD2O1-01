@@ -10,26 +10,22 @@ def q2():
   print (not(not(bool1)))
 
 def q3():
-  bool1 = int(input("Enter a number: "))
-  print (bool1 => 0 and bool1 <= 10)
+  bool1 = float(input("Enter a number: "))
+  print (bool1 >= 0 and bool1 <= 10)
 
 
 def q4():
 
-  bool1 = input("Input food: ")
-  bool2 = input("Input drink: ")
-  print (bool1 == "pizza" or "pop" and bool2 == "pizza" or "pop")
-
-
+  dddd=input("Input food: ")
+  aa=input("Input drink: ")
+  if dddd=='pizza' and aa=='pop':
+    print(False)
+  else:
+    print(True)
 
 def q5():
   skib = int(input("Enter an integer: "))
-  if skib % 2 == 0: 
-    doop = (f"The integer {skib} is True")
-    print (doop)
-  else: 
-    no = (f"The integer {skib} is False")
-    print (no)
+  print(f"The integer {skib} is {skib % 2 == 0}.")
 
 #Do not edit code after this
 #Comment out the followwing code when running tests
