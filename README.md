@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16184608)
 # Instructions  
 
 1. Create two Booleans called _bool1_ which is assigned to True, and _bool2_ that is assigned to False. Output the result of them being ANDed together, then output the result of them being ORed together. Output these results on different lines.
@@ -8,7 +9,7 @@
 
 </br>
 
-3. Ask the user, "Enter a number: ".  Check if the number is between 0 and 10 (Inclusively). Output True if it is.  False otherwise.
+8883. Ask the user, "Enter a number: ".  Check if the number is between 0 and 10 (Inclusively). Output True if it is.  False otherwise.
 
 </br>
 
@@ -16,7 +17,7 @@
 
 </br>
 
-5. Ask the user, “Enter an integer: ” Input the user’s response from the keyboard, test the integer to see if it is even (use the modulus operator % and 2 to do this), and then output the result as shown below (several runs are shown):
+885. Ask the user, “Enter an integer: ” Input the user’s response from the keyboard, test the integer to see if it is even (use the modulus operator % and 2 to do this), and then output the result as shown below (several runs are shown):
 
 </br>
 
